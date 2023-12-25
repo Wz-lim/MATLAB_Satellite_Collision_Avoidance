@@ -12,7 +12,7 @@ tleFile = "Test_1.txt";
 %     "Name","satTwoBodyKeplerian", ...
 %     "OrbitPropagator","two-body-keplerian");
 
-satellites = satellite(sc,tleFile);
+satellites = satellite(sc,tleFile,"OrbitPropagator","sgp4");
 
 
 v = satelliteScenarioViewer(sc);

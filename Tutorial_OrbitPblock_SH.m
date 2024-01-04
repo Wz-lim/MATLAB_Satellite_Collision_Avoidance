@@ -1,4 +1,4 @@
-%%Orbit_Propagator Block Tutorial
+%%Orbit_Propagator Block Tutorial to model Satellite Constellation
 %Shuhao Lim
 % Look at openExample('aeroblks/OrbitPropagatorBlockConstellationExample')
 % for background theory and tutorial page
